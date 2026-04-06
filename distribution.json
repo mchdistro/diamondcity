@@ -215,9 +215,89 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1402,
+            "size": 1459,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
+          }
+        },
+        {
+          "id": "journeymap.core.config",
+          "name": "journeymap.core.config",
+          "type": "File",
+          "artifact": {
+            "size": 2689,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "path": "journeymap/config/6.0/journeymap.core.config"
+          }
+        },
+        {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1303,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "path": "journeymap/config/6.0/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2308,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2324,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
+          "id": "journeymap.rendering.config",
+          "name": "journeymap.rendering.config",
+          "type": "File",
+          "artifact": {
+            "size": 671,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "path": "journeymap/config/6.0/journeymap.rendering.config"
+          }
+        },
+        {
+          "id": "journeymap.topo.config",
+          "name": "journeymap.topo.config",
+          "type": "File",
+          "artifact": {
+            "size": 971,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
+            "path": "journeymap/config/6.0/journeymap.topo.config"
+          }
+        },
+        {
+          "id": "journeymap.waypoint.config",
+          "name": "journeymap.waypoint.config",
+          "type": "File",
+          "artifact": {
+            "size": 1235,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "path": "journeymap/config/6.0/journeymap.waypoint.config"
+          }
+        },
+        {
+          "id": "journeymap.webmap.config",
+          "name": "journeymap.webmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
+            "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
         },
         {
