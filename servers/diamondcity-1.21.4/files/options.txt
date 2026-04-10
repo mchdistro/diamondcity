@@ -15,7 +15,7 @@ prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
 graphicsMode:1
-guiScale:0
+guiScale:2
 maxFps:120
 inactivityFpsLimit:"afk"
 mipmapLevels:4
@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/generated.zip","file/Visible Ores2.14.zip"]
+resourcePacks:["vanilla","fabric","file/generated.zip","file/Visible Ores2.14.zip","file/VanillaTweaks_r165418_MC1.21.x.zip"]
 incompatibleResourcePacks:["koreanpatch","file/Visible Ores2.14.zip"]
 lastServer:
 lang:ko_kr

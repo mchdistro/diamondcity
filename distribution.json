@@ -215,7 +215,7 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1459,
+            "size": 1402,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
@@ -225,7 +225,7 @@
           "name": "journeymap.core.config",
           "type": "File",
           "artifact": {
-            "size": 2689,
+            "size": 2776,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
@@ -235,7 +235,7 @@
           "name": "journeymap.fullmap.config",
           "type": "File",
           "artifact": {
-            "size": 1303,
+            "size": 1347,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
@@ -245,7 +245,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 2308,
+            "size": 2384,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
@@ -255,7 +255,7 @@
           "name": "journeymap.minimap2.config",
           "type": "File",
           "artifact": {
-            "size": 2324,
+            "size": 2400,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
@@ -265,7 +265,7 @@
           "name": "journeymap.rendering.config",
           "type": "File",
           "artifact": {
-            "size": 671,
+            "size": 687,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
@@ -275,7 +275,7 @@
           "name": "journeymap.topo.config",
           "type": "File",
           "artifact": {
-            "size": 971,
+            "size": 978,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
@@ -285,7 +285,7 @@
           "name": "journeymap.waypoint.config",
           "type": "File",
           "artifact": {
-            "size": 1235,
+            "size": 1273,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
@@ -295,7 +295,7 @@
           "name": "journeymap.webmap.config",
           "type": "File",
           "artifact": {
-            "size": 162,
+            "size": 166,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
@@ -305,7 +305,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5362,
+            "size": 5404,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/options.txt",
             "path": "options.txt"
           }
@@ -319,6 +319,17 @@
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/resourcepacks/generated.zip",
             "MD5": "244f0ac105dcec5c2125bb02ea906fc8",
             "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
+          "id": "VanillaTweaks_r165418_MC1.21.x.zip",
+          "name": "VanillaTweaks_r165418_MC1.21.x.zip",
+          "type": "File",
+          "artifact": {
+            "size": 111449,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/resourcepacks/VanillaTweaks_r165418_MC1.21.x.zip",
+            "MD5": "4dd004f033a08763e44dd44ed91932a6",
+            "path": "resourcepacks/VanillaTweaks_r165418_MC1.21.x.zip"
           }
         },
         {
