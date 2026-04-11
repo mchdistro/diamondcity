@@ -29,7 +29,7 @@ screenEffectScale:1.0
 soundDevice:""
 autoJump:false
 rotateWithMinecart:false
-operatorItemsTab:false
+operatorItemsTab:true
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/generated.zip","file/Visible Ores2.14.zip","file/VanillaTweaks_r165418_MC1.21.x.zip"]
+resourcePacks:["vanilla","fabric","file/Visible Ores2.14.zip","file/VanillaTweaks_r165418_MC1.21.x.zip","file/generated.zip"]
 incompatibleResourcePacks:["koreanpatch","file/Visible Ores2.14.zip"]
 lastServer:
 lang:ko_kr
@@ -153,7 +153,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.5198675496688742
+soundCategory_master:0.5066225165562914
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

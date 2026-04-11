@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "diamondcity-1.21.4",
+      "id": "v1-1.21.4",
       "name": "다이아시티",
       "description": "Minecraft 1.21.4 (Fabric v0.18.6)",
       "icon": "https://github.com/mchdistro/diamondcity/raw/main/server-icon.png",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3514384,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
             "MD5": "3893e727701bc66b4f3dbd80a434282d"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 595769,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
             "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
           }
         },
@@ -176,7 +176,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12217819,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
             "MD5": "697c58299b7addd59f99ff5a1f873002"
           }
         },
@@ -186,7 +186,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -196,7 +196,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 150902,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/fabricmods/required/WI-Zoom-1.7-MC1.21.4.jar",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/fabricmods/required/WI-Zoom-1.7-MC1.21.4.jar",
             "MD5": "824d4b7981f8258b77186e4c0402f4db"
           }
         },
@@ -206,7 +206,7 @@
           "type": "File",
           "artifact": {
             "size": 340,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -216,7 +216,7 @@
           "type": "File",
           "artifact": {
             "size": 1402,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/config/plasmovoice/client.toml",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
         },
@@ -226,7 +226,7 @@
           "type": "File",
           "artifact": {
             "size": 2776,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
         },
@@ -236,7 +236,7 @@
           "type": "File",
           "artifact": {
             "size": 1347,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
         },
@@ -246,7 +246,7 @@
           "type": "File",
           "artifact": {
             "size": 2384,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
         },
@@ -256,7 +256,7 @@
           "type": "File",
           "artifact": {
             "size": 2400,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
         },
@@ -266,7 +266,7 @@
           "type": "File",
           "artifact": {
             "size": 687,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
         },
@@ -276,7 +276,7 @@
           "type": "File",
           "artifact": {
             "size": 978,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
         },
@@ -286,7 +286,7 @@
           "type": "File",
           "artifact": {
             "size": 1273,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
         },
@@ -296,7 +296,7 @@
           "type": "File",
           "artifact": {
             "size": 166,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
         },
@@ -305,8 +305,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5404,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/options.txt",
+            "size": 5403,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -315,9 +315,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 2023862,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "244f0ac105dcec5c2125bb02ea906fc8",
+            "size": 2007232,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/resourcepacks/generated.zip",
+            "MD5": "41ce500ff88752172465221f680a0b09",
             "path": "resourcepacks/generated.zip"
           }
         },
@@ -327,7 +327,7 @@
           "type": "File",
           "artifact": {
             "size": 111449,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/resourcepacks/VanillaTweaks_r165418_MC1.21.x.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/resourcepacks/VanillaTweaks_r165418_MC1.21.x.zip",
             "MD5": "4dd004f033a08763e44dd44ed91932a6",
             "path": "resourcepacks/VanillaTweaks_r165418_MC1.21.x.zip"
           }
@@ -338,7 +338,7 @@
           "type": "File",
           "artifact": {
             "size": 904233,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/resourcepacks/Visible%20Ores2.14.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/resourcepacks/Visible%20Ores2.14.zip",
             "MD5": "d6e65411cd7034566c68ce36c7d66cb4",
             "path": "resourcepacks/Visible Ores2.14.zip"
           }
@@ -349,7 +349,7 @@
           "type": "File",
           "artifact": {
             "size": 402680,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/1_(%EC%A0%80%EC%82%AC%EC%96%91)MakeUp-UltraFast-9.3h.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/1_(%EC%A0%80%EC%82%AC%EC%96%91)MakeUp-UltraFast-9.3h.zip",
             "MD5": "230150ebf7005afb032934f6779ae46b",
             "path": "shaderpacks/1_(저사양)MakeUp-UltraFast-9.3h.zip"
           }
@@ -360,7 +360,7 @@
           "type": "File",
           "artifact": {
             "size": 100,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/1_(%EC%A0%80%EC%82%AC%EC%96%91)MakeUp-UltraFast-9.3h.zip.txt",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/1_(%EC%A0%80%EC%82%AC%EC%96%91)MakeUp-UltraFast-9.3h.zip.txt",
             "path": "shaderpacks/1_(저사양)MakeUp-UltraFast-9.3h.zip.txt"
           }
         },
@@ -370,7 +370,7 @@
           "type": "File",
           "artifact": {
             "size": 522973,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/2_(%EC%A4%91%EA%B0%84%EC%82%AC%EC%96%91)ComplementaryUnbound_r5.6.1.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/2_(%EC%A4%91%EA%B0%84%EC%82%AC%EC%96%91)ComplementaryUnbound_r5.6.1.zip",
             "MD5": "b535d194c7115b360860e226c65ae3f2",
             "path": "shaderpacks/2_(중간사양)ComplementaryUnbound_r5.6.1.zip"
           }
@@ -381,7 +381,7 @@
           "type": "File",
           "artifact": {
             "size": 161,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/2_(%EC%A4%91%EA%B0%84%EC%82%AC%EC%96%91)ComplementaryUnbound_r5.6.1.zip.txt",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/2_(%EC%A4%91%EA%B0%84%EC%82%AC%EC%96%91)ComplementaryUnbound_r5.6.1.zip.txt",
             "path": "shaderpacks/2_(중간사양)ComplementaryUnbound_r5.6.1.zip.txt"
           }
         },
@@ -391,7 +391,7 @@
           "type": "File",
           "artifact": {
             "size": 1125052,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/3_(%EA%B3%A0%EC%82%AC%EC%96%91)BSL_v8.4.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/3_(%EA%B3%A0%EC%82%AC%EC%96%91)BSL_v8.4.zip",
             "MD5": "67b0a2d855e91f3578af7a4336e537f0",
             "path": "shaderpacks/3_(고사양)BSL_v8.4.zip"
           }
@@ -402,7 +402,7 @@
           "type": "File",
           "artifact": {
             "size": 4411879,
-            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/diamondcity-1.21.4/files/shaderpacks/4_(%EC%B4%88%20%EA%B3%A0%EC%82%AC%EC%96%91)SEUS%20PTGI%20HRR%203.zip",
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/4_(%EC%B4%88%20%EA%B3%A0%EC%82%AC%EC%96%91)SEUS%20PTGI%20HRR%203.zip",
             "MD5": "9eb234d412b057766290d9f3b3a51af3",
             "path": "shaderpacks/4_(초 고사양)SEUS PTGI HRR 3.zip"
           }
