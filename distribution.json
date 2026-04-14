@@ -406,6 +406,17 @@
             "MD5": "9eb234d412b057766290d9f3b3a51af3",
             "path": "shaderpacks/4_(초 고사양)SEUS PTGI HRR 3.zip"
           }
+        },
+        {
+          "id": "photon_v1.3a.zip",
+          "name": "photon_v1.3a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3800983,
+            "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/shaderpacks/photon_v1.3a.zip",
+            "MD5": "4e640bae9d5a74512ed2f95b7e47ead8",
+            "path": "shaderpacks/photon_v1.3a.zip"
+          }
         }
       ]
     }
