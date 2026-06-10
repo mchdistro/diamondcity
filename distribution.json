@@ -215,7 +215,7 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1402,
+            "size": 1459,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/config/plasmovoice/client.toml",
             "path": "config/plasmovoice/client.toml"
           }
@@ -315,9 +315,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 2007232,
+            "size": 2166857,
             "url": "https://github.com/mchdistro/diamondcity/raw/main/servers/v1-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "41ce500ff88752172465221f680a0b09",
+            "MD5": "8e729f29ce10f1c33b34bf09d44ff71d",
             "path": "resourcepacks/generated.zip"
           }
         },
